@@ -1,0 +1,26 @@
+﻿-----------------------------------------------------------
++ MXH
+1. Users
+ - Like
+ - Comment
+ - Follow
+ - Search
+----------------------------------------------------------- 
++ SHOP
+1. Like Sản phẩm 
+- Like theo size (Nếu sp hết size và khi có sẽ thông báo) 
+- Có thể theo dõi, nhận thông báo về sản phầm)
+2. Search Product
+-----------------------------------------------------------
++ Quản lý sản phẩm (Shop)
+ - Tạo sản phẩm (Thông tin sản phẩm, số lượng)
+ - Tạo nhóm sản phẩm
+ - Quản lý Tồn kho
++ Đơn hàng (Bao gồm trạng thái vận chuyển)
++ Khách hàng
++ Khuyến mãi
++ Report
+-----------------------------------------------------------
++ Quản lý hệ thống
+ - Quản lý toàn bộ Shop
+ - Quản lý Users
